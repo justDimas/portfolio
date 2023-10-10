@@ -1,0 +1,29 @@
+.portfolio{
+	background-color: #F6F6F6;
+	text-align: center;
+}
+
+.portfolio__item{
+	margin-top: 50px;
+}
+@media (max-width: 425px){
+	.portfolio__item{
+		margin-top: 70px;
+	}	
+}
+.portfolio__image{
+	width: 100%;
+	object-fit: contain;
+}
+
+.portfolio__link{
+	display: inline-block;
+	margin-top: 45px;
+	text-decoration: underline;
+	font-weight: 500;
+}
+@media (max-width: 425px){
+	.portfolio__link{
+		margin-top: 30px;
+	}
+}

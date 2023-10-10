@@ -1,0 +1,16 @@
+.about{
+	background-color: #F6F6F6; 
+	text-align: center;
+}
+
+.about__body{
+	font-weight: 500;
+}
+
+.about__paragraph{
+	margin-top: 40px;
+}
+
+.about__paragraph:nth-child(1){
+	margin-top: 20px;
+}
