@@ -8,7 +8,7 @@ function About(){
 					<h2 className='about__title'>About me</h2>
 					<div className='about__body'>
 						<p className='about__paragraph'>
-							Hi, I'm Denis – UX/UI designer from Minsk.<br/>I'm interested in design and everything connected with it.
+							Hi, I'm Denis – UX<span className='vertical-separator'>|</span>UI designer from Minsk.<br/>I'm interested in design and everything connected with it.
 						</p>
 						<p className='about__paragraph'>
 							I'm studying at courses "Web and mobile design interfaces" in IT-Academy.
